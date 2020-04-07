@@ -1,0 +1,5 @@
+<Project name="sudoku">
+<File path="startup.s"></File>
+<File path="sudoku.s"></File>
+<File path="Makefile"></File>
+</Project>
